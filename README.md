@@ -1,4 +1,8 @@
- <p align="center"> <img width="336" height="168" alt="coiny-bfdi" src="https://github.com/user-attachments/assets/e7488b5c-cb07-4c02-9e42-990f6285e71c" />
-<p align="center"> $\color{#ff5733}{\text{𝒕𝒉𝒊𝒔 𝒊𝒔 𝒎𝒚 𝒂𝒍𝒕 . 𝒘𝒆𝒍𝒄𝒐𝒎𝒆 ,,}}$</p>
-<p align="center"> $\color{#fec47f}{\text{𝙘 * 𝙝  ,, 𝙞𝙬𝙘𝙖𝙧𝙚 ..}}$</p>
-<p align="center"> $\color{#ffa500}{\text{" oh , i guess i really was healthy ,, well — thanks ! i .. guess . "}}$</p>
+<p align="left"> <img width="498" height="432" alt="cammy-cammy-ii" src="https://github.com/user-attachments/assets/5353dde7-4e66-414e-be05-10080f4e33ae" />
+
+
+  <p align="left">$\color{#add8e6}\text{【 𝙩𝙝𝙖𝙩 𝙢𝙮𝙨𝙩𝙚𝙧𝙞𝙤𝙪𝙨 𝙩𝙝𝙞𝙣𝙜 𝙬𝙖𝙨 𝙢𝙚 𝙖𝙡𝙡 𝙖𝙡𝙤𝙣𝙜 . 】}$</p>
+
+<p align="center">$\color{#79b8f4}\text{𝙖𝙡𝙚𝙚𝙮𝙖 . 𝙘𝙭𝙢𝙢𝙮 .𝙩𝙝𝙚𝙮 / 𝙖𝙣𝙮}$</p>
+
+<p align="center">$\color{#8093f1}\text{𝘮𝘰𝘴𝘵𝘭𝘺 𝘰𝘧𝘧𝘵𝘢𝘣 ,, 𝘤 * 𝘩 𝘧𝘳𝘦𝘦𝘭𝘺 𝘸2𝘪}$</p>
